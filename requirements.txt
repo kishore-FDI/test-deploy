@@ -1,2 +1,2 @@
-flash
-flash-cors
+flask
+flask-cors
